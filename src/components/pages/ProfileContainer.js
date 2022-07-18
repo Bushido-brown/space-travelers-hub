@@ -5,7 +5,6 @@ const ProfileContainer = () => (
   <div className="profileContainer">
     <ProfileRocket />
     <ProfileMissions />
-    <ProfileDragon />
   </div>
 );
 

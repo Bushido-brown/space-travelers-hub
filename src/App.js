@@ -15,7 +15,6 @@ function App() {
         <Routes>
           <Route path="/space-travelers" exact="true" element={<Rockets />} />
           <Route path="/missions" element={<MissionsContainer />} />
-          <Route path="/dragons" element={<Dragons />} />
           <Route path="/myprofile" element={<ProfileContainer />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
