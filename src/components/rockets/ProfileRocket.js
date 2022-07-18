@@ -11,7 +11,7 @@ const ProfileRocket = () => {
   return (
     <>
       <div className="profile-rocket-container">
-        <h2>My Rockets</h2>
+        <h2>Rockets</h2>
         <ul className="profile-rocket-list-conatiner">
 
           {status
