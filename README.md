@@ -92,9 +92,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 👤 **Jesús Vázquez**
 
-- GitHub: [@githubhandle](https://github.com/)
-- Twitter: [@twitterhandle](https://twitter.com/)
-- LinkedIn: [LinkedIn](https://linkedin.com/)
+- GitHub: [@jevazquezb](https://github.com/jevazquezb)
+- Twitter: [@javb_1187](https://twitter.com/javb_1187)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jevazquezb/)
 
 ## 🤝 Contributing
 
